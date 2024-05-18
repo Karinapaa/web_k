@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "web_karina_django", "web_karina_django\web_karina_django.pyproj", "{EDFF0356-1B11-4E0B-8192-4591658E1F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFF0356-1B11-4E0B-8192-4591658E1F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFF0356-1B11-4E0B-8192-4591658E1F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFF0356-1B11-4E0B-8192-4591658E1F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFF0356-1B11-4E0B-8192-4591658E1F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A5766C-E64F-4501-B5B8-0196858EBAA0}
+	EndGlobalSection
+EndGlobal
